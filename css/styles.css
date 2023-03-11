@@ -8,7 +8,6 @@ body{
   color: #fff;
 }
 
-
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 3.5rem;
@@ -34,7 +33,7 @@ p {
 }
 
 .container-fluid{
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 /*Navigation bar*/
@@ -64,13 +63,17 @@ padding: 0 0 4.5rem;
 
 /*Title image*/
 .title-image{
-  width:60%;
-  transform: rotate(25deg)
+  width:20%;
+  transform: rotate(25deg);
+  position : absolute;
+  right: 30%
 }
 /*Feature section*/
 #features {
-  margin: 7% 15%;
+  padding: 7% 15%;
   text-align : center;
+  background-color: white;
+  position: relative;
 }
 
 .feature-box{
