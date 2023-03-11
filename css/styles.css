@@ -138,3 +138,33 @@ padding: 0 0 4.5rem;
 .btn-body{
   margin:3% 0 0 0
 }
+
+
+
+/*cta section*/
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  padding: 5%;
+
+}
+
+.cta-button{
+  margin:4% 1%;
+}
+
+.cta-a{
+  margin:0 17%;
+}
+
+
+/*footer section*/
+#footer{
+  text-align: center;
+  margin: 7% ;
+}
+
+.footer-icon {
+  margin: 0 1% 3%;
+}
