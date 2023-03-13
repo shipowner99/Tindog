@@ -1,7 +1,7 @@
 # Tindog
  
 ### 배운 것
-1. 반응형 웹: viewport 의 크기에 반응하여 layout이 변하는 웹사이트 
+1. 반응형 웹: viewport 의 크기에 반응하여 layout이 변하는 웹사이트 (이미지 위치, 크기, 회전, row 한 줄에 배치되는 개수 등이 달라짐)
 2. 구글 웹 폰트 사용방법
 3. CSS 링크 순서 주의하기
 4. Bootstrap의 기본 및 기능들
@@ -31,3 +31,6 @@
 1. [wire frame 협업 하는 사이트 ](https://balsamiq.cloud/)
 2. [FontAwesome](https://fontawesome.com/icons) : 여러 아이콘(페북, 트위터 등의 기업로고) 사이트
 3. Stacking order(pdf)
+
+
+## 웹사이트
