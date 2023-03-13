@@ -1,4 +1,4 @@
-[# Tindog](https://shipowner99.github.io/Tindog/#)
+#[# Tindog](https://shipowner99.github.io/Tindog/#)
  
 ### 배운 것
 1. 반응형 웹: viewport 의 크기에 반응하여 layout이 변하는 웹사이트 (이미지 위치, 크기, 회전, row 한 줄에 배치되는 개수 등이 달라짐)
