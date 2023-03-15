@@ -20,13 +20,13 @@
 >5) [Selector Priority](https://blog.naver.com/jey803/222346839994)
 >6) [Media query breakpoints](https://blog.naver.com/jey803/222345584581)
 7. [Code Refactoring 하기](https://blog.naver.com/jey803/222346648967)
->why? 성능 유지 및 읽기 쉽게 - 유지 관리해야 할 사람이 마치 도끼 살인자일 것 같다고 예상하고...
->1)1.Readability -누가봐도 읽고 이해하기 쉬운가(제일 중요)
->2)2.Modularity - 코드 재사용이 얼마나 쉬운가, 문제 파악이 얼마나 쉬운가
->3)3.Efficiency - 빠르고 효율적인가
->4)4.Length - 코드 길이(상대적으로 덜 중요)
->5)DRY- Don't Repeat Yourself(o)
->6)WET- We Engoy Typing (x)
+> why? 성능 유지 및 읽기 쉽게 - 유지 관리해야 할 사람이 마치 도끼 살인자일 것 같다고 예상하고...
+> 1)1.Readability -누가봐도 읽고 이해하기 쉬운가(제일 중요)
+> 2)2.Modularity - 코드 재사용이 얼마나 쉬운가, 문제 파악이 얼마나 쉬운가
+> 3)3.Efficiency - 빠르고 효율적인가
+> 4)4.Length - 코드 길이(상대적으로 덜 중요)
+> 5)DRY- Don't Repeat Yourself(o)
+> 6)WET- We Engoy Typing (x)
 
 ### 유용한 리로스
 1. [wire frame 협업 하는 사이트 ](https://balsamiq.cloud/)
