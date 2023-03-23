@@ -28,7 +28,7 @@
 >5) DRY- Don't Repeat Yourself(o)
 >6) WET- We Engoy Typing (x)
 
-### 유용한 리로스
+### 유용한 리소스
 1. [wire frame 협업 하는 사이트 ](https://balsamiq.cloud/)
 2. [FontAwesome](https://fontawesome.com/icons) : 여러 아이콘(페북, 트위터 등의 기업로고) 사이트
 3. Stacking order(pdf)
